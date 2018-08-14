@@ -1,0 +1,2 @@
+resnet50/* filter=lfs diff=lfs merge=lfs -text
+trained_resnet50/TS_resnet50.h5 filter=lfs diff=lfs merge=lfs -text
