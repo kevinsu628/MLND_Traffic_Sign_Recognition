@@ -1,0 +1,310 @@
+item{
+  id: 1
+  name: A13
+}
+
+item{
+  id: 2
+  name: A14
+}
+
+item{
+  id: 3
+  name: A15
+}
+
+item{
+  id: 4
+  name: A1A
+}
+
+item{
+  id: 5
+  name: A1B
+}
+
+item{
+  id: 6
+  name: A1C
+}
+
+item{
+  id: 7
+  name: A1D
+}
+
+item{
+  id: 8
+  name: A23
+}
+
+item{
+  id: 9
+  name: A25
+}
+
+item{
+  id: 10
+  name: A29
+}
+
+item{
+  id: 11
+  name: A31
+}
+
+item{
+  id: 12
+  name: A33
+}
+
+item{
+  id: 13
+  name: A41
+}
+
+item{
+  id: 14
+  name: A51
+}
+
+item{
+  id: 15
+  name: A7A
+}
+
+item{
+  id: 16
+  name: A7B
+}
+
+item{
+  id: 17
+  name: A7C
+}
+
+item{
+  id: 18
+  name: B15A
+}
+
+item{
+  id: 19
+  name: B17
+}
+
+item{
+  id: 20
+  name: B1
+}
+
+item{
+  id: 21
+  name: B19
+}
+
+item{
+  id: 22
+  name: B5
+}
+
+item{
+  id: 23
+  name: C1
+}
+
+item{
+  id: 24
+  name: C11
+}
+
+item{
+  id: 25
+  name: C21
+}
+
+item{
+  id: 26
+  name: C23
+}
+
+item{
+  id: 27
+  name: C27
+}
+
+item{
+  id: 28
+  name: C29
+}
+
+item{
+  id: 29
+  name: C3
+}
+
+item{
+  id: 30
+  name: C31LEFT
+}
+
+item{
+  id: 31
+  name: C31RIGHT
+}
+
+item{
+  id: 32
+  name: C35
+}
+
+item{
+  id: 33
+  name: C43
+}
+
+item{
+  id: 34
+  name: D10
+}
+
+item{
+  id: 35
+  name: D1a
+}
+
+item{
+  id: 36
+  name: D1b
+}
+
+item{
+  id: 37
+  name: D3b
+}
+
+item{
+  id: 38
+  name: D5
+}
+
+item{
+  id: 39
+  name: D7
+}
+
+item{
+  id: 40
+  name: D9
+}
+
+item{
+  id: 41
+  name: E1
+}
+
+item{
+  id: 42
+  name: E3
+}
+
+item{
+  id: 43
+  name: E5
+}
+
+item{
+  id: 44
+  name: E7
+}
+
+item{
+  id: 45
+  name: B21
+}
+
+item{
+  id: 46
+  name: E9a
+}
+
+item{
+  id: 47
+  name: E9a_miva
+}
+
+item{
+  id: 48
+  name: E9b
+}
+
+item{
+  id: 49
+  name: E9c
+}
+
+item{
+  id: 50
+  name: E9d
+}
+
+item{
+  id: 51
+  name: E9e
+}
+
+item{
+  id: 52
+  name: F12a
+}
+
+item{
+  id: 53
+  name: F12b
+}
+
+item{
+  id: 54
+  name: F19
+}
+
+item{
+  id: 55
+  name: F45
+}
+
+item{
+  id: 56
+  name: F47
+}
+
+item{
+  id: 57
+  name: F49
+}
+
+item{
+  id: 58
+  name: F50
+}
+
+item{
+  id: 59
+  name: F59
+}
+
+item{
+  id: 60
+  name: F87
+}
+
+item{
+  id: 61
+  name: B11
+}
+
+item{
+  id: 62
+  name: B9
+}
+
