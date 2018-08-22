@@ -1,7 +1,7 @@
 # Udacity MLND Capstone Project: Traffic Sign Recognition
 ### Capstone project of Udacity Machine Learning Nano Degree
 ### Introduction
-The following files are for relative to this project:
+The following files are relative to this project:
   - Dataset: a folder that contains all training files and testing files
   - Standards: a folder that contains all standards images for traffic sign class
   - capstone_tsr.ipynb: main jupyter notebook that contains the code for this project
